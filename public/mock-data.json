@@ -1,0 +1,88 @@
+{
+  "cv_metadata": {
+    "location": "France",
+    "job_title": "Ingénieur IA",
+    "top_skills": ["Python", "RAG", "LangChain", "React", "Docker", "Azure"],
+    "suggested_keywords": "Ingénieur IA"
+  },
+  "match_result": {
+    "match_score": 90,
+    "job_title": "Ingénieur IA Fullstack",
+    "job_company": "Startup AI Data",
+    "job_required_skills": [
+      "AI",
+      "RAG",
+      "PYTHON",
+      "JAVA",
+      "VISION TRANSFORMERS",
+      "LANGCHAIN",
+      "REACT",
+      "DOCKER",
+      "MICROSOFT AZURE",
+      "CI/CD",
+      "TYPESCRIPT"
+    ],
+    "missing_skills": [
+      "TYPESCRIPT"
+    ],
+    "cover_letter": null,
+    "reasoning": "Profile strongly matches the AI Fullstack Developer requirements."
+  },
+  "cover_letter": "Objet : Candidature pour le poste d'Ingénieur IA Fullstack\n\nBonjour,\n\nJe vous adresse ma candidature pour ce poste d'Ingénieur IA Fullstack. Mon profil combine une expérience en IA générative, en pipelines RAG, et en développement produit fullstack avec Python, React et Docker.\n\nJ'ai travaillé sur des cas d'usage concrets mêlant analyse documentaire, automatisation et interfaces orientées utilisateur, avec une attention forte portée à la qualité technique et à la mise en production.\n\nJe serais ravi d'échanger avec vous pour détailler ma motivation et la manière dont je pourrais contribuer rapidement à votre équipe.\n\nCordialement,\n\nPrénom Nom",
+  "search_results": [
+    {
+      "title": "Ingénieur IA Fullstack (H/F)",
+      "company": "Startup AI Data",
+      "location": "Paris, France",
+      "source": "professional_network",
+      "url": "#",
+      "posted_at_text": "Il y a 2 jours",
+      "summary": "Conception d'agents IA, APIs Python et interfaces React pour un produit SaaS."
+    },
+    {
+      "title": "Développeur IA Générative",
+      "company": "Studio Produit ML",
+      "location": "Lyon, France",
+      "source": "recruitment_site",
+      "url": "#",
+      "posted_at_text": "Il y a 5 jours",
+      "summary": "Mise en place de workflows RAG, évaluation de prompts et industrialisation LLM."
+    },
+    {
+      "title": "Ingénieur Machine Learning",
+      "company": "Hello Compute",
+      "location": "Toulouse, France",
+      "source": "tech_job_portal",
+      "url": "#",
+      "posted_at_text": "Il y a 1 jour",
+      "summary": "Déploiement de modèles, monitoring et intégration backend sur plateforme cloud."
+    },
+    {
+      "title": "Consultant IA / Data",
+      "company": "Data Strategy Conseil",
+      "location": "Nantes, France",
+      "source": "job_search_engine",
+      "url": "#",
+      "posted_at_text": "Il y a 3 jours",
+      "summary": "Accompagnement clients sur cas d'usage IA, NLP et automatisation documentaire."
+    },
+    {
+      "title": "Chef de projet IA",
+      "company": "France Numérique Emploi",
+      "location": "Lille, France",
+      "source": "public_employment_service",
+      "url": "#",
+      "posted_at_text": "Il y a 6 jours",
+      "summary": "Pilotage de projets IA avec cadrage fonctionnel, coordination produit et delivery."
+    },
+    {
+      "title": "Ingénieur R&D IA",
+      "company": "Cadres Innovation",
+      "location": "Bordeaux, France",
+      "source": "executive_job_board",
+      "url": "#",
+      "posted_at_text": "Il y a 4 jours",
+      "summary": "Recherche appliquée en IA générative, vector search et expérimentation produit."
+    }
+  ]
+}
